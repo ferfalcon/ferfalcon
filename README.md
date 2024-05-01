@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferfalcon web desiger based in Montevideo, Uruguay
 - 👀 Obviously I’m interested in HTML, CSS, JS
-- 🌱 I’m currently learning ...
+- 🤓 Udemy certification
 	- [Interactive Web Animation [ JavaScript SVG CSS & Canvas ]](https://www.udemy.com/certificate/UC-b5e43c89-5957-4723-aa80-61bf29e81f9f/)
 	- [Creative Web Animation with GSAP 3 [ JavaScript SVG CSS ]](https://www.udemy.com/certificate/UC-9ffb136c-2c59-4227-868c-196d622a99a1/)
 	- [JavaScript Animations with GreenSock (GSAP)](https://www.udemy.com/certificate/UC-22c27520-a9fd-4d3a-9be7-0a05f6c2c5c4/)
