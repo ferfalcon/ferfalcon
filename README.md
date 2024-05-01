@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferfalcon web desiger based in Montevideo, Uruguay
 - 👀 Obviously I’m interested in HTML, CSS, JS
-- 🤓 Udemy certification
+- 🤓 Udemy certifications
 	- [Interactive Web Animation [ JavaScript SVG CSS & Canvas ]](https://www.udemy.com/certificate/UC-b5e43c89-5957-4723-aa80-61bf29e81f9f/)
 	- [Creative Web Animation with GSAP 3 [ JavaScript SVG CSS ]](https://www.udemy.com/certificate/UC-9ffb136c-2c59-4227-868c-196d622a99a1/)
 	- [JavaScript Animations with GreenSock (GSAP)](https://www.udemy.com/certificate/UC-22c27520-a9fd-4d3a-9be7-0a05f6c2c5c4/)
@@ -12,6 +12,9 @@
 	- [Master JavaScript Animations with Greensock](https://www.udemy.com/certificate/UC-7b0bc2c0-2567-4463-9351-1ea3787642c8/)
 	- [Web APIs JavaScript Fetch getting JSON data Fun with APIs](https://www.udemy.com/certificate/UC-bc6df9d6-10d0-41ea-8ca5-6cf6b7848671/)
 - 📫 How to reach me ...
+	- [Fernando Falcon @ LinkedIn](https://www.linkedin.com/in/fernandofalcon/)
+	- [fer.falcon.dg@gmail.com](mailto:someone@yoursite.com)
+	
 
 <!---
 ferfalcon/ferfalcon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
