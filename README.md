@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ferfalcon web desiger based in Montevideo, Uruguay
+- 👋 Hi, I’m Fer Falcon web desiger based in Montevideo, Uruguay
 - 👀 Obviously I’m interested in HTML, CSS, JS
 - 🤓 Udemy certifications
 	- [Interactive Web Animation [ JavaScript SVG CSS & Canvas ]](https://www.udemy.com/certificate/UC-b5e43c89-5957-4723-aa80-61bf29e81f9f/)
@@ -14,6 +14,7 @@
 - 📫 How to reach me ...
 	- [Fernando Falcon @ LinkedIn](https://www.linkedin.com/in/fernandofalcon/)
 	- [fer.falcon.dg@gmail.com](mailto:someone@yoursite.com)
+	- [ferfalcon @ Frontend Mentor](https://www.frontendmentor.io/profile/ferfalcon)
 	
 
 <!---
